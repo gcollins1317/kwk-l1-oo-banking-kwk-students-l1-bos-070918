@@ -6,4 +6,6 @@ class Transfer
     @amount = amount
     @status = status 
   end 
+  def valid?
+end 
 end
