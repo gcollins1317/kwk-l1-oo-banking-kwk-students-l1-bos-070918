@@ -7,5 +7,6 @@ class Transfer
     @status = status 
   end 
   def valid?
+    true 
 end 
 end
